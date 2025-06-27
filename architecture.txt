@@ -1,0 +1,29 @@
+
+# RAG + AI-Agent System for M&A/Private Equity
+# High-level project skeleton based on enhanced strategy
+
+# Directory Structure (suggested)
+# project_root/
+# ├── data_ingestion/
+# │   ├── pdf_extractor.py
+# │   ├── excel_parser.py
+# │   └── url_scraper.py
+# ├── embeddings/
+# │   ├── embedder.py
+# │   └── vector_store.py
+# ├── rag_core/
+# │   ├── rag_chain.py
+# │   ├── prompt_templates.py
+# │   └── document_compressor.py
+# ├── agents/
+# │   ├── reader_agent.py
+# │   ├── writer_agent.py
+# │   ├── verifier_agent.py
+# │   └── memory.py
+# ├── ui/
+# │   └── app.py
+# ├── utils/
+# │   └── logger.py
+# ├── main.py
+# ├── requirements.txt
+# └── README.md

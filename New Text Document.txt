@@ -1,0 +1,10 @@
+pip install jupyter
+pip install ipykernel
+pip install langchain
+pip install faiss-cpu
+pip install transformers
+pip install pymupdf
+pip install fastapi
+pip install streamlit
+pip install boto3
+pip install reportlab
