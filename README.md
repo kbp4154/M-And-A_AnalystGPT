@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 
 ```markdown
 # M&A_AnalystGPT
@@ -41,6 +39,3 @@ Add predictive analytics for deal valuation.
 Contact
 Bhanuprakash - konetibhanuprakash1@email.com
 LinkedIn - www.linkedin.com/in/bhanu-prakash-koneti-6223b4132
-
-```
->>>>>>> f6a53c1b (first commit)
